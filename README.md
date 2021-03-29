@@ -12,6 +12,8 @@ The data collection process includes:
 •	API request resulted in JSON data. 
 •	Google maps API request data
 
+![Capture](https://user-images.githubusercontent.com/75961117/112777839-2a182000-9011-11eb-97c7-cdfd07fba051.PNG)
+
 
 ## Results
 
