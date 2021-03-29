@@ -17,6 +17,9 @@ The data collection process includes:
 
 ## Results
 
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/75961117/112777965-6cd9f800-9011-11eb-8051-049fe1a64fde.png)
+
+
 API data in JSON format was filtered and converted into dataframes which was exported into csv format.
 The dataframes were used to generate heatmaps and in conjunction with google maps, identified various cities and their weather conditions. 
 Based on the analysis, an ideal vacation itinerary can be generated.
