@@ -1,6 +1,5 @@
 # World Weather Analysis
 
-
 ## Project overview
 The goal of the project is to collect weather data on worldwide cities through API request and together with google map, analyze the data to help recommend the ideal cities, hotels and time of the year to take a vacation.
 
