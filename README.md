@@ -16,7 +16,6 @@ The data collection process includes:
 
 ![Capture](https://user-images.githubusercontent.com/75961117/112777839-2a182000-9011-11eb-97c7-cdfd07fba051.PNG)
 
-
 ## Results
 
 
